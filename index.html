@@ -1144,7 +1144,7 @@
 
           <h3 class="h3 form-title">Contact Form</h3>
 
-          <form action="#" class="form" data-form>
+          <form action="https://formsubmit.co/jhonierandresquinteromendoza@gmail.com" method="post" class="form" data-form>
 
             <div class="input-wrapper">
               <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
@@ -1153,6 +1153,16 @@
             </div>
 
             <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+            <!-- Campo oculto para el asunto del correo -->
+            <input type="hidden" name="_subject" value="Propuesta de trabajo desde tu portafolio">
+
+            <!-- Para evitar SPAM -->
+            <input type="text" name="_honey" style="display:none">
+
+            <!-- Para que no aparezca el captcha de FormSubmit -->
+            <input type="hidden" name="_captcha" value="false">
+
 
             <button class="form-btn" type="submit" disabled data-form-btn>
               <ion-icon name="paper-plane"></ion-icon>
