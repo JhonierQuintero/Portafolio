@@ -5,12 +5,12 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personal Portfolio</title>
+  <title>vCard - Personal Portfolio</title>
 
   <!--
     - favicon
   -->
-  <!-- <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon"> -->
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
 
   <!--
     - custom css link
@@ -48,7 +48,7 @@
         <div class="info-content">
           <h1 class="name" title="Jhonier Quintero">Jhonier Quintero</h1>
 
-          <p class="title">Desarollador de Software</p>
+          <p class="title">FrontEnd developer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
@@ -102,7 +102,7 @@
             <div class="contact-info">
               <p class="contact-title">Birthday</p>
 
-              <time datetime="08-23">agosto 23</time>
+              <time datetime="2007-08-23">August 23, 2007</time>
             </div>
 
           </li>
@@ -209,21 +209,16 @@
 
         <section class="about-text">
           <p>
-            Soy una persona proactiva, con gran motivación por seguir aprendiendo y creciendo en el campo del desarrollo de software. Cuento con conocimientos en HTML, CSS, JavaScript, Python, Git, Linux, Scrum, Visual Studio Code y MySQL, y actualmente me encuentro
-            fortaleciendo mis habilidades en Java. Me caracterizo por mi compromiso, responsabilidad y disposición para adaptarme a nuevos entornos tecnológicos, aportando soluciones creativas y eficientes a los proyectos en los que 
-            participo. Mi objetivo es transmitir tu mensaje de la manera más creativa y efectiva posible, combinando 
-            estética con usabilidad también agregando un toque personal a cada proyecto.
+            I am a frontend developer passionate about creating clean, responsive and easy to use web interfaces.
+            I enjoy transforming complex ideas and problems into elegant, functional and accessible digital experiences using HTML, CSS, JavaScript and modern development tools. 
+            With a strong eye for design and usability, my goal is to build interfaces that not only look great but are also intuitive and appealing to users.
+          </p>
 
           <p>
-            Competencias Profesionales
-
-            <ul>
-              <li>Proactividad y disposición para aprender nuevas tecnologías.</li>
-              <li>Trabajo en equipo y colaboración bajo metodologías ágiles (Scrum).</li>
-              <li>Pensamiento analítico y resolución de problemas.</li>
-              <li>Adaptabilidad a diferentes entornos y desafíos.</li>
-              <li>Comunicación efectiva y orientación a resultados.</li>
-            </ul>
+            My job is to build websites that are not only functional and easy to use, but also visually appealing and responsive.
+            I focus on creating clean, modern interfaces using HTML, CSS and JavaScript, ensuring a seamless user experience across all devices.
+            Beyond the code, I add a personal touch to each project, making each product feel unique, attractive and aligned with your brand identity.
+            My goal is to convey your message in the most creative and effective way possible, combining aesthetics with usability.
           </p>
         </section>
 
@@ -249,8 +244,8 @@
                 <h4 class="h4 service-item-title">Web design</h4>
 
                 <p class="service-item-text">
-                  yo estoy aprendiendo a diseñar interfaces limpias y modernas, centrándome en crear diseños visualmente atractivos y fáciles de usar.
-                  Cada proyecto es una oportunidad para mejorar mis habilidades en UI/UX.
+                  I'm learning to design clean and modern interfaces, focusing on creating visually appealing and user-friendly layouts. 
+                  Every project is an opportunity to improve my UI/UX skills.
                 </p>
               </div>
 
@@ -266,8 +261,8 @@
                 <h4 class="h4 service-item-title">Web development</h4>
 
                 <p class="service-item-text">
-                  yo construyo sitios web responsivos y funcionales utilizando HTML, CSS y JavaScript.
-                  Estoy trabajando constantemente en proyectos personales para fortalecer mis habilidades en desarrollo frontend.
+                  HI build responsive and functional websites using HTML, CSS, and JavaScript. 
+                  I'm constantly working on personal projects to strengthen my frontend development skills.
                 </p>
               </div>
 
@@ -283,8 +278,8 @@
                 <h4 class="h4 service-item-title">Mobile apps</h4>
 
                 <p class="service-item-text">
-                  Aunque no estoy desarrollando aplicaciones móviles nativas, me enfoco en construir diseños web amigables para dispositivos móviles que se adapten
-                  sin problemas a todos los dispositivos.
+                  Although I’m not yet developing native mobile apps, I focus on building mobile-friendly web designs that adapt 
+                  smoothly to all devices.
                 </p>
               </div>
 
@@ -300,8 +295,8 @@
                 <h4 class="h4 service-item-title">Photography</h4>
 
                 <p class="service-item-text">
-                  En mi tiempo libre, exploro áreas creativas como la fotografía y la inspiración en el diseño, 
-                  lo que me ayuda a aportar un toque más artístico y único a mis proyectos.
+                  In my free time, I explore creative areas like photography and design inspiration, 
+                  which help me bring a more artistic and unique touch to my projects.
                 </p>
               </div>
 
@@ -333,11 +328,11 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Jhonier es un estudiante de desarrollo de software apasionado y dedicado.
-                    Nos impresionó su creatividad y compromiso durante el desarrollo de sus proyectos personales.
-                    Puede que esté al principio de su carrera, pero muestra un gran potencial y atención al detalle.
-                    Siempre ansioso por aprender y mejorar, Manuel demuestra una sólida comprensión de los principios modernos de diseño web y desarrollo centrado en el usuario.
-                    Estamos seguros de que seguirá creciendo hasta convertirse en un desarrollador talentoso y confiable.
+                    Jhonier is a passionate and dedicated frontend development student.
+                    We were impressed by his creativity and commitment during the development of his personal projects.
+                    He may be at the beginning of his career, but he shows great potential and attention to detail.
+                    Always eager to learn and improve, Manuel demonstrates a strong understanding of modern web design principles and user-centered development.
+                    We’re confident that he’ll continue growing into a talented and reliable developer.
                   </p>
                 </div>
 
@@ -445,11 +440,11 @@
 
               <div data-modal-text>
                 <p>
-                  Jhonier es un estudiante de desarrollo de software apasionado y dedicado.
-                  Nos impresionó su creatividad y compromiso durante el desarrollo de sus proyectos personales.
-                  Puede que esté al principio de su carrera, pero muestra un gran potencial y atención al detalle.
-                  Siempre ansioso por aprender y mejorar, Jhonier demuestra una sólida comprensión de los principios modernos de diseño web y desarrollo centrado en el usuario.
-                  Estamos seguros de que seguirá creciendo hasta convertirse en un desarrollador talentoso y confiable.
+                  Jhonier is a passionate and dedicated frontend development student.
+                  We were impressed by his creativity and commitment during the development of his personal projects.
+                  He may be at the beginning of his career, but he shows great potential and attention to detail.
+                  Always eager to learn and improve, Manuel demonstrates a strong understanding of modern web design principles and user-centered development.
+                  We’re confident that he’ll continue growing into a talented and reliable developer.
                 </p>
               </div>
 
@@ -545,7 +540,7 @@
               <span>2025 — 2026</span>
 
               <p class="timeline-text">
-                Actualmente estoy estudiando un técnico laboral en desarrollo de software, donde estoy aprendiendo los fundamentos de la programación, el desarrollo web y el diseño de aplicaciones.
+                I am currently studying a technical degree in software development, where I am learning the fundamentals of programming, web development and application design.
                 This training is helping me build a solid foundation for my future career as a developer.
               </p>
 
